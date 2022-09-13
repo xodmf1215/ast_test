@@ -1,0 +1,14 @@
+C:\Users\xodmf\Documents\ast_test\bin\Debug\netcoreapp3.1\ast_test.exe
+C:\Users\xodmf\Documents\ast_test\bin\Debug\netcoreapp3.1\ast_test.deps.json
+C:\Users\xodmf\Documents\ast_test\bin\Debug\netcoreapp3.1\ast_test.runtimeconfig.json
+C:\Users\xodmf\Documents\ast_test\bin\Debug\netcoreapp3.1\ast_test.runtimeconfig.dev.json
+C:\Users\xodmf\Documents\ast_test\bin\Debug\netcoreapp3.1\ast_test.dll
+C:\Users\xodmf\Documents\ast_test\bin\Debug\netcoreapp3.1\ast_test.pdb
+C:\Users\xodmf\Documents\ast_test\obj\Debug\netcoreapp3.1\ast_test.csproj.AssemblyReference.cache
+C:\Users\xodmf\Documents\ast_test\obj\Debug\netcoreapp3.1\ast_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xodmf\Documents\ast_test\obj\Debug\netcoreapp3.1\ast_test.AssemblyInfoInputs.cache
+C:\Users\xodmf\Documents\ast_test\obj\Debug\netcoreapp3.1\ast_test.AssemblyInfo.cs
+C:\Users\xodmf\Documents\ast_test\obj\Debug\netcoreapp3.1\ast_test.csproj.CoreCompileInputs.cache
+C:\Users\xodmf\Documents\ast_test\obj\Debug\netcoreapp3.1\ast_test.dll
+C:\Users\xodmf\Documents\ast_test\obj\Debug\netcoreapp3.1\ast_test.pdb
+C:\Users\xodmf\Documents\ast_test\obj\Debug\netcoreapp3.1\ast_test.genruntimeconfig.cache
